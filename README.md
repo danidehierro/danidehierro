@@ -1,8 +1,9 @@
 <h1 align="center">hola 👋, Soy Eric Daniel Briansó</h1>
-
+<p align="center">
  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&color=%FD7014&size=30&center=true&lines=Hola%2C+Mundo+%F0%9F%8C%8E;Full+Stack+Developers;+Espero+Ser+esa+Ayuda+Que+Buscas+%F0%9F%91%8B+">
   </a>
+ </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danidehierro&label=Profile%20views&color=0e75b6&style=flat" alt="danidehierro" /> <img src="https://i.pinimg.com/originals/6a/e6/de/6ae6debded140059005af325ff032117.gif" alt="not img" width="40" height="40"/>  </p>
 
