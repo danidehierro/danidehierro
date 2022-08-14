@@ -5,7 +5,7 @@
 
 <h3 align="center">Conéctate conmigo:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/www.linkedin.com/in/eric-daniel-brianso" target="blank"><img align= "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin .com/en/eric-daniel-brianso" https://i.pinimg.com/originals/6a/e6/de/6ae6debded140059005af325ff032117.gif /> width="40" height="40" </a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/eric-daniel-brianso" target="blank"><img align= "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin .com/en/eric-daniel-brianso" </a>/> width="40" height="40"
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
